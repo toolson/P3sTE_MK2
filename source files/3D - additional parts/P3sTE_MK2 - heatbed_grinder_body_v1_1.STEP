@@ -7,7 +7,7 @@ FILE_NAME ('P3sTE_MK2 - heatbed_grinder_body_v1_1.STEP',
     ( '' ),
     ( '' ),
     'SwSTEP 2.0',
-    'SolidWorks 2017',
+    'NoobCAD',
     '' );
 FILE_SCHEMA (( 'AUTOMOTIVE_DESIGN' ));
 ENDSEC;
